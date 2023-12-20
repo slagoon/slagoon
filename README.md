@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=C9FFC3&text=Dream%20Come%20True&fontsize=30&height=150)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slagoon)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
