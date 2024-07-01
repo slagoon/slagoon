@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hello&fontSize=70&fontAlign=50&fontAlignY=50&desc=I%27m+MinHyeok&descSize=30&descAlign=50&descAlignY=60)
+
+
+
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
+
+**🛠️ Infra and Tools**
+![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white) 
